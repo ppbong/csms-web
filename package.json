@@ -1,7 +1,14 @@
 {
   "name": "csms-web",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "Cyber Security Management System - Web Front End",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppbong/csms-web.git"
+  },
+  "author": "ppbong",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -18,5 +25,17 @@
     "typescript": "~5.9.3",
     "vite": "^7.2.4",
     "vue-tsc": "^3.1.4"
-  }
+  },
+  "keywords": [
+    "cybersecurity",
+    "ISO/SAE-21434",
+    "CSDLC",
+    "CSRM",
+    "TARA",
+    "VULM",
+    "SCM",
+    "STV",
+    "IRM",
+    "SCSM"
+  ]
 }

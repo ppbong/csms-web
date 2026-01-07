@@ -1,5 +1,23 @@
-# Vue 3 + TypeScript + Vite
+# Cyber Security Management System - Web Front End
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Description
+This is a web application that provides a user interface for Cyber Security Management System (CSMS). It is based on ISO/SAE-21434 Road vehicles - Cybersecurity engineering standard.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Features
+- User authentication and authorization
+- Role-based access control (RBAC)
+- Dashboard for system monitoring and management
+- Cybersecurity Development Life Cycle (CSDLC)
+- Cybersecurity risk management (CSRM)
+- Threat analysis and risk assessment (TARA)
+- Vulnerability management (VULM)
+- Security configuration management (SCM) 
+- Security testing and validation (STV)
+- Incident response and management (IRM)
+- Supply chain security management (SCSM)
+
+## Installation
+1. Clone the repository: `git clone https://github.com/ppbong/csms-web.git`
+2. Navigate to the project directory: `cd csms-web`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
